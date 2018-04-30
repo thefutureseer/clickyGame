@@ -1,6 +1,6 @@
 {
-  "name": "react-flux-memory-game",
-  "author": "Liam Ma",
+  "name": "clicky-game",
+  "author": "Tannehill",
   "version": "0.0.1",
   "description": "A memory card built with React.js",
   "dependencies": {
