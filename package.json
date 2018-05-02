@@ -32,5 +32,14 @@
       "reactify",
       "envify"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefutureseer/clickyGame.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thefutureseer/clickyGame/issues"
+  },
+  "homepage": "https://github.com/thefutureseer/clickyGame#readme"
 }
